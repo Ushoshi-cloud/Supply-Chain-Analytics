@@ -66,15 +66,6 @@ Power Query – Data cleaning, renaming, and transformations
 DAX – KPI calculations and measure creation
 Excel/CSV – Source dataset
 
-Project Structure
-Supply-Chain-Performance-Dashboard
- ├── README.md
- ├── PowerBI_Dashboard.pbix
- ├── Dataset
- │    └── supply_chain_data.csv
- └── Images
-      └── dashboard_preview.png
-
 Key Insights
 Skincare category contributes the highest revenue.
 Road and rail are the dominant transportation modes.
@@ -82,9 +73,6 @@ Bangalore and Chennai show high supply volume.
 Supplier 1 and Supplier 4 contribute most to revenue.
 Route B involves the highest number of shipping carriers.
 
-How to Use
-Download the .pbix file.
-Open it in Power BI Desktop.
 Review the data model, visuals, and measures.
 Customize the dashboard for your own supply chain analysis.
 Conclusion
